@@ -8,6 +8,7 @@ License:	BSD
 Group:		Development/Python
 BuildRequires:	python
 BuildRequires:	python%{pyver}dist(cppy)
+BuildRequires:	pkgconfig(python3)
 BuildSystem:	python
 
 %description
