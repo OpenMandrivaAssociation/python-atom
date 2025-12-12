@@ -1,6 +1,6 @@
 Name:		python-atom
 Version:	0.11.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/a/atom/atom-%{version}.tar.gz
 Summary:	Memory efficient Python objects
 URL:		https://pypi.org/project/atom/
